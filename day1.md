@@ -6,6 +6,8 @@ nav_order: 2
 
 # Welcome and introduction!
 
+making a change, doesn't matter what.
+
 ## Introductions
 
 Everyone introduce themselves and say why they're interested in
