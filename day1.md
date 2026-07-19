@@ -1,17 +1,16 @@
 ---
-title: Day 1 - welcome and introduction!
+title: iNaturalist
 layout: home
 nav_order: 2
 ---
 
-# Welcome and introduction!
+# Working With iNaturalist Data
 
-making a change, doesn't matter what.
+[iNaturalist](https://www.inaturalist.org/), is a community science website and app that allows users to upload observations of wildlife across a broad range of taxonomic groups. These data can be used to better understand the diversity of our world, and study patterns over time. 
 
 ## Introductions
 
-Everyone introduce themselves and say why they're interested in
-participating in this workshop!
+iNaturalist is a 
 
 ## Scope & Goals
 
