@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# Statistics for Biology: Assessing Data
+# Biodiversity, Bias, and Big Data: Exploring Community Ecology with iNaturalist
 
 These activities will introduce some typical ways that biological datasets - both experimental and observational - can be assessed, using open source statistical tools. 
 
