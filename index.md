@@ -22,8 +22,6 @@ nav_order: 1
 
 ---
 
-## Welcome!
-
 Ecologists often ask questions that appear deceptively simple.
 
 - Which habitat supports the greatest biodiversity?
@@ -55,7 +53,8 @@ By the end of this investigation, you should be able to:
 # Your Scientific Toolkit
 
 The technology we're using was chosen because is not only free, but works on essentially any computer with a modern Web browser and a keyboard - including Google Chrome books - and needs no installation, no special permissions, and
-no additional software.
+no additional software. Throughout this activity, you will use **Markdown:**: a simple way to format text using plain characters. For example, Markdown can be used to make headings, lists, links, and bold text. [Markdown](https://www.markdownguide.org/]).
+
 
 ## JupyterLite
 
@@ -93,8 +92,6 @@ During this investigation you will use Pandas to:
 ## Matplotlib
 
 [matplotlib](https://matplotlib.org/) is a Python library used to make plots and graphs from data. You will use it to create figures that help reveal ecological patterns and communicate your findings.
-
-**Markdown:** A simple way to format text using plain characters. For example, Markdown can be used to make headings, lists, links, and bold text. [Markdown](https://www.markdownguide.org/]).
 
 ---
 
