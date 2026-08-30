@@ -109,7 +109,7 @@ During this investigation you will use Pandas to:
 
 ## 📓 Biodiversity Investigation Notebook
 
-*(Notebook link goes here.)*
+*(https://github.com/wendystjohn/2026-bcp-createsite/blob/063519ec551e74d2eeb3bd071d9219c30aa5bc6e/BiodiversityBiasBigData.ipynb)*
 
 ---
 
