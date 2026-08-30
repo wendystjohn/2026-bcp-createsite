@@ -4,6 +4,141 @@ layout: home
 nav_order: 1
 ---
 
+# Exploring Biodiversity with Python
+
+## A Scientific Investigation
+
+> ## 🌿 The Challenge
+>
+> **Which College of Marin campus is more biodiverse?**
+>
+> One campus is surrounded by extensive open space.
+>
+> One campus lies near the edge of a tidal estuary.
+>
+> You have access to thousands of wildlife observations collected by citizen scientists.
+>
+> **Can you use the data to answer the question?**
+
+---
+
+## Welcome!
+
+Ecologists often ask questions that appear deceptively simple.
+
+- Which habitat supports the greatest biodiversity?
+- How does biodiversity change through time?
+- Are two communities ecologically similar?
+
+Finding reliable answers, however, requires more than simply collecting data. Scientists must also consider **how** those data were collected, what information may be missing, and whether the observed patterns truly reflect nature.
+
+In this investigation, you will use **Python** to analyze thousands of wildlife observations collected through **iNaturalist**, a global citizen science project. As you explore the data, you'll learn to organize information, create visualizations, and evaluate ecological patterns using the same computational tools employed by professional scientists.
+
+Along the way, you may discover that answering one question often leads to several new ones.
+
+---
+
+# Learning Objectives
+
+By the end of this investigation, you should be able to:
+
+- Import and explore a real ecological dataset using **Pandas**
+- Calculate species richness for different locations and years
+- Create informative graphs using **Matplotlib**
+- Compare biological communities between two sites
+- Evaluate how sampling effort influences ecological conclusions
+- Recognize strengths and limitations of citizen science datasets
+- Use evidence to support ecological interpretations
+
+---
+
+# Your Scientific Toolkit
+
+## JupyterLite
+
+This activity runs entirely in your web browser using **JupyterLite**, so no software installation is required.
+
+JupyterLite combines code, text, figures, and notes into a single interactive notebook, allowing you to document your investigation as you work.
+
+---
+
+## Python
+
+Python is one of the world's most widely used programming languages and has become a standard tool for scientific computing, data analysis, visualization, and research.
+
+No previous programming experience is required for this activity.
+
+---
+
+## Pandas
+
+Pandas is a Python library designed for organizing and analyzing tabular data.
+
+During this investigation you will use Pandas to:
+
+- import datasets
+- summarize observations
+- calculate biodiversity metrics
+- compare biological communities
+
+---
+
+## Matplotlib
+
+Matplotlib is Python's primary graphing library.
+
+You will use it to create figures that help reveal ecological patterns and communicate your findings.
+
+---
+
+# Getting Started
+
+1. Open the Jupyter notebook.
+2. Run each code cell in order using **Shift + Enter**.
+3. Read the background information before attempting each section.
+4. Record your observations and interpretations on the accompanying worksheet.
+5. Remember that your goal is **not simply to write code**—your goal is to use evidence to answer ecological questions.
+
+---
+
+# Activity Materials
+
+## 📓 Biodiversity Investigation Notebook
+
+*(Notebook link goes here.)*
+
+---
+
+## 📝 Student Worksheet
+
+*(Worksheet link goes here.)*
+
+---
+
+# Tips for Using JupyterLite
+
+- Run a code cell using **Shift + Enter**.
+- Execute notebook cells in order.
+- If a graph does not appear, rerun the code cell.
+- Save your completed notebook by downloading a copy to your computer.
+- Refreshing your browser may reset the notebook if your work has not been saved.
+
+---
+
+# A Note About Scientific Inquiry
+
+Unlike many classroom exercises, this investigation does **not** have a single "correct" answer waiting to be discovered.
+
+Instead, your task is to analyze evidence, identify patterns, evaluate limitations, and decide what conclusions are—and are not—supported by the data.
+
+That process is at the heart of scientific inquiry.
+
+---
+
+> *"Somewhere, something incredible is waiting to be known."*
+>
+> — Carl Sagan
+
 # Biodiversity, Bias, and Big Data: Exploring Community Ecology with iNaturalist
 
 These activities will introduce some typical ways that biological datasets - both experimental and observational - can be assessed, using open source statistical tools. 
