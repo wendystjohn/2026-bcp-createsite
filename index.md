@@ -109,15 +109,16 @@ During this investigation you will use Pandas to:
 
 ## 📓 Biodiversity Investigation Notebook
 
-Launch the Biodiversity Investigation at the link below. This will open JupyterLite. Then double-click **BiodiversityBiasBigData.ipynb** to begin.
+Launch the Biodiversity Investigation at the link below. 
 
-*[https://wendystjohn.github.io/2026-bcp-createsite/lab/]((https://wendystjohn.github.io/2026-bcp-createsite/lab/notebooks/index.html?path=BiodiversityBiasBigData.ipynb))*
+[Biodiversity, Bias, and Big Data](https://wendystjohn.github.io/2026-bcp-createsite/lab/notebooks/index.html?path=BiodiversityBiasBigData.ipynb)
+
 
 ---
 
 ## 📝 Student Worksheet
 
-*(Worksheet link goes here.)*
+This is part of the Week 4 Lab Manual handout. 
 
 ---
 
