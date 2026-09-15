@@ -111,7 +111,7 @@ During this investigation you will use Pandas to:
 
 Launch the Biodiversity Investigation at the link below. This will open JupyterLite. Then double-click **BiodiversityBiasBigData.ipynb** to begin.
 
-*[https://wendystjohn.github.io/2026-bcp-createsite/lab/]([https://wendystjohn.github.io/2026-bcp-createsite/lab/](https://wendystjohn.github.io/2026-bcp-createsite/lab/notebooks/index.html?path=BiodiversityBiasBigData.ipynb))*
+*[https://wendystjohn.github.io/2026-bcp-createsite/lab/]((https://wendystjohn.github.io/2026-bcp-createsite/lab/notebooks/index.html?path=BiodiversityBiasBigData.ipynb))*
 
 ---
 
